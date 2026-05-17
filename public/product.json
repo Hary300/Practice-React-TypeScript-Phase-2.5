@@ -1,0 +1,82 @@
+[
+  {
+    "id": "prod-101",
+    "name": "Wireless Mechanical Keyboard",
+    "price": 1250000,
+    "discount": 10,
+    "category": ["Electronics", "Computer Accessories"],
+    "inStock": true,
+    "stockCount": 15,
+    "rating": 4.8,
+    "reviewCount": 124,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop",
+    "description": "Keyboard mekanikal nirkabel dengan switch responsif, lampu latar RGB yang dapat disesuaikan, dan daya tahan baterai hingga 200 jam. Cocok untuk produktivitas kerja maupun sesi gaming intensif.",
+    "specs": {
+      "brand": "KeyFlex",
+      "weight": "850g",
+      "dimensions": "35cm x 12cm x 4cm",
+      "connectivity": "Bluetooth 5.1 & 2.4GHz Wireless",
+      "warranty": "1 Tahun Garansi Resmi"
+    }
+  },
+  {
+    "id": "prod-102",
+    "name": "Ergonomic Office Chair",
+    "price": 2450000,
+    "discount": 0,
+    "category": ["Furniture", "Office"],
+    "inStock": true,
+    "stockCount": 5,
+    "rating": 4.6,
+    "reviewCount": 42,
+    "image": "https://images.unsplash.com/photo-1505797149-43b0069ec26b?w=500&auto=format&fit=crop",
+    "description": "Kursi kantor ergonomis yang dirancang khusus untuk menjaga postur tubuh Anda tetap ideal selama jam kerja yang panjang. Dilengkapi dengan sandaran lumbar yang dapat diatur dan bahan mesh premium yang adem.",
+    "specs": {
+      "brand": "ErgoComfort",
+      "weight": "15kg",
+      "dimensions": "65cm x 65cm x 120cm",
+      "material": "Premium Mesh & Nylon Base",
+      "warranty": "2 Tahun Garansi Hidrolik"
+    }
+  },
+  {
+    "id": "prod-103",
+    "name": "Stainless Steel Tumbler 500ml",
+    "price": 350000,
+    "discount": 15,
+    "category": ["Kitchenware", "Lifestyle"],
+    "inStock": false,
+    "stockCount": 0,
+    "rating": 4.9,
+    "reviewCount": 310,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&auto=format&fit=crop",
+    "description": "Tumbler vakum dinding ganda berbahan stainless steel food-grade 304. Mampu menahan suhu minuman panas hingga 12 jam dan minuman dingin hingga 24 jam tanpa kondensasi di bagian luar.",
+    "specs": {
+      "brand": "HydroFlask",
+      "weight": "320g",
+      "dimensions": "7cm x 7cm x 25cm",
+      "capacity": "500ml",
+      "warranty": "Tidak Ada Garansi"
+    }
+  },
+  {
+    "id": "prod-104",
+    "name": "Ultra Wide Gaming Monitor 34\"",
+    "price": 5800000,
+    "discount": 5,
+    "category": ["Electronics", "Monitor"],
+    "inStock": true,
+    "stockCount": 3,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop",
+    "description": "Rasakan pengalaman visual yang imersif dengan monitor lengkung ultrawide 34 inci. Didukung oleh refresh rate 144Hz dan resolusi WQHD untuk pergerakan gambar yang super mulus tanpa patah-patah.",
+    "specs": {
+      "brand": "VisionX",
+      "weight": "7.5kg",
+      "dimensions": "82cm x 23cm x 48cm",
+      "resolution": "3440 x 1440 (WQHD)",
+      "warranty": "3 Tahun Garansi Panel"
+    }
+  }
+]
